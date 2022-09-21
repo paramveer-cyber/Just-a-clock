@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to right, #ee0979, #ff6a00)
+}
+
+.clock{
+    font-family: 'Cascadia Code';
+    background: #191919;
+    border-radius: 12px;
+    text-align: center;   
+    margin-left: 26.5rem;
+    color: white;
+    font-size: 8rem;
+    display: block;
+    margin-top: 17rem;
+    width: 42rem;
+    box-shadow: 1px 1px 30px 10px #0ff;
+}
+
+.date{
+    font-family: 'Cascadia Code';
+    background: #191919;
+    border-radius: 8px;
+    text-align: center;   
+    margin-left: 27.5rem;
+    color: white;
+    font-size: 3rem;
+    display: block;
+    margin-top: 2.5rem;
+    width: 39.5rem;
+    height: 4rem;
+    padding-top: 10px;
+    box-shadow: 1px 1px 20px 5px #0f0;
+}
